@@ -1,3 +1,1 @@
 # test-git-macos
-
-test
